@@ -1,0 +1,6 @@
+C:\Users\legio\source\repos\prova_acrcloud\prova_acrcloud\bin\Debug\prova_acrcloud.exe.config
+C:\Users\legio\source\repos\prova_acrcloud\prova_acrcloud\bin\Debug\prova_acrcloud.exe
+C:\Users\legio\source\repos\prova_acrcloud\prova_acrcloud\bin\Debug\prova_acrcloud.pdb
+C:\Users\legio\source\repos\prova_acrcloud\prova_acrcloud\obj\Debug\prova_acrcloud.csproj.CoreCompileInputs.cache
+C:\Users\legio\source\repos\prova_acrcloud\prova_acrcloud\obj\Debug\prova_acrcloud.exe
+C:\Users\legio\source\repos\prova_acrcloud\prova_acrcloud\obj\Debug\prova_acrcloud.pdb
